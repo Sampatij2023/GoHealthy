@@ -552,4 +552,5 @@ input {
   border-radius: 50%;
   background: #4CAF50;
   cursor: pointer;
-}
+}.head{
+   text-align:center;}
