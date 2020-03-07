@@ -463,8 +463,8 @@ input {
   font-weight: 700;
   margin-bottom: 37px;
 }
-body{
-  background-image:url("images/about.jpg");
+.center-align{
+  text-align: center;
 }
 /* ==========================================================================
    #CARD
