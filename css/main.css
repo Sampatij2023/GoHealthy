@@ -14,8 +14,10 @@
   text-align: center;
 }
 .ques{
-  font-size: 20px;
+  font-size: 25px;
 }
+.options{
+   font-size:18px:}
 
 /* ==========================================================================
    #GRID
