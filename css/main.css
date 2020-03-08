@@ -7,17 +7,20 @@
 }
 .head{
   font-family: 'Merriweather', serif;
-  font-size: 130%;
+  font-size: 1.8em;
 }
 .titcol{
   color: #d63447;
   text-align: center;
 }
 .ques{
-  font-size: 25px;
+  font-size: 1.6em;
 }
 .options{
-   font-size:18px:}
+   font-size: 1.4em;
+   padding: 8px;
+   line-height: 1.6em;
+  }
 
 /* ==========================================================================
    #GRID
@@ -312,7 +315,7 @@ input {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
-  width: 100%;
+  width: 10%;
   font-size: 14px;
   font-family: inherit;
 }
